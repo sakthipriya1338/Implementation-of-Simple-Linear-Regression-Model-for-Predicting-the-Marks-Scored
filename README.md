@@ -14,13 +14,13 @@ To write a program to predict the marks scored by a student using the simple lin
 4. Display the predicted result and visualize the data using a graph.
 
 ## Program:
+```
 
 Program to implement the simple linear regression model for predicting the marks scored.
 
 Developed by:Sakthipriya R 
 RegisterNumber:212225220088
 
-```
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt

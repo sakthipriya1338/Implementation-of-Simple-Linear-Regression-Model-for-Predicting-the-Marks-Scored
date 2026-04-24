@@ -51,7 +51,6 @@ model.fit(X_train, y_train)
 
 y_pred = model.predict(X_test)
 
-# Step 7: Model Evaluation
 print("\nModel Parameters:")
 print("Intercept (b0):", model.intercept_)
 print("Slope (b1):", model.coef_[0])

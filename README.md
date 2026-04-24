@@ -69,9 +69,6 @@ plt.title("Simple Linear Regression: Predicting Marks")
 plt.legend()
 plt.grid(True)
 plt.show()
-/*
-  
-*/
 ```
 
 ## Output:
